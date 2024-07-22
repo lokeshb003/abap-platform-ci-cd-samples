@@ -1,7 +1,7 @@
 general:
   cfApiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com'
-  cfOrg: 'e97a1146trial_e97a1146trial'
-  cfSpace: 'Lokesh'
+  cfOrg: '4a1117f3trial'
+  cfSpace: 'dev'
   cfCredentialsId: 'cfAuthentification'
   cfServiceInstance: 'atc_system'
   repositories: 'repositories.yml'
