@@ -3,7 +3,6 @@ general:
   cfOrg: '4a1117f3trial'
   cfSpace: 'dev'
   cfCredentialsId: 'cfAuthentification'
-  cfServiceInstance: 'atc_system'
   repositories: 'repositories.yml'
 stages:
   Clone Repositories:
